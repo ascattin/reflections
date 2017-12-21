@@ -17,3 +17,12 @@ What is the benefit of having a copy of the last known state of the remote store
   It is much easier to keep track of what has been done after your changes, and editing
   code becomes easier.
 
+How would you collaborate without using Git or Github? What would be easier, and what would
+be harder?
+  I would most likely use Drive or Dropbox, even email or in person work. Git and GitHub are
+  much easier when working with code, as they are designed for this type of work.
+  
+When would you want to make changes in a separate branch rather than directly in the master?
+What benefits does each approach have?
+  Using a separate branch is useful when the master is meant for deployment, or when other 
+  people are working on the same thing. Master is faster but less safe.
