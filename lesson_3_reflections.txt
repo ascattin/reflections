@@ -1,0 +1,3 @@
+When would you want to create a remote repository rather than keepin all your work local?
+  A remote repository is advantageous when a project is collaborative or designed
+  to be open source.
