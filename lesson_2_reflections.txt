@@ -17,3 +17,17 @@ How would branches help?
    code. It would also be useful to have something working to distribute, and continue 
    working on another version.
    
+How do the diagrams help you visualize the branch structure?
+   The diagrams show the branches and commits in a linear, time sensitive fashion, which
+   allows easier understanding of the structure.
+   
+What is the result of merging two branches together? Why do we represent it in the diagram
+the way we do?
+   The result is one branch containing what is wanted from both branches. It keeps added
+   lines and removes deleted lines. The diagram is represented as such because it shows
+   all the separate commits which have influenced the final branch.
+   
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+   Automatic merging can simplify if you are working on different aspects of a file, 
+   and shows exactly what changes. Manual merges are tedious and can take some time.
+   
