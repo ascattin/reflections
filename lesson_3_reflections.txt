@@ -1,3 +1,19 @@
 When would you want to create a remote repository rather than keepin all your work local?
   A remote repository is advantageous when a project is collaborative or designed
   to be open source.
+
+Why might you want to always pull changes manually rather than having Git automatically
+stay up-to-date with your remote repository?
+  You may be working on a file that has since been updated by someone else, or on a
+  previous aspect of a project.
+
+Describe the differences between forks, clones, and branches. When would you use one
+instead of the other?
+  A fork would be used to pick up where a collaborator is
+  A branch would be to try something new with what is committed
+  A clone would be to start from a determined point.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+  It is much easier to keep track of what has been done after your changes, and editing
+  code becomes easier.
+
